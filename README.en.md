@@ -1,6 +1,5 @@
 # Notification
-
-[en](https://github.com/dzp181/Notification/blob/master/README.en.md)
+[中文](https://github.com/dzp181/Notification/blob/master/README.md)
 
 *   Orbiter：在 iOS 中注册推送通知。[官网](https://github.com/mattt/Orbiter)
 *   PEM：为推送服务器自动生成 profile。[官网](https://github.com/fastlane/PEM)
